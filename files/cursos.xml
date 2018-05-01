@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="plantillacurso_1.xsl"?>
+<cursos>
+    <curso categoria="matematicas">
+        <nombre>Algebra</nombre>
+        <duracion>120</duracion>
+        <descripcion>El álgebra es la rama de la matemática que estudia la 
+            combinación de elementos de estructuras abstractas acorde a ciertas
+            reglas. Originalmente esos elementos podían ser interpretados como 
+            números o cantidades, por lo que el álgebra en cierto modo originalmente 
+            fue una generalización y extensión de la aritmética.2​3​ En el álgebra 
+            moderna existen áreas del álgebra que en modo alguno pueden considerarse
+            extensiones de la aritmética (álgebra abstracta, álgebra homológica, 
+            álgebra exterior, etc.).
+        </descripcion>
+    </curso>
+    <curso categoria="Informatica">
+        <nombre>Programació orientada a objetos</nombre>
+        <duracion>250</duracion>
+        <descripcion>La programació orientada a objectes o POO (OOP segons les
+            seves sigles en anglès) és un paradigma de programació que intenta
+            proporcionar un model de programació basat en objectes que contenen dades i
+            procediments associats coneguts com a mètodes. Aquests objectes, que solen
+            ser instàncies de classes, són un tipus abstracte de dades que encapsulen
+            (amaguen) tant les dades com les funcions per a accedir-hi.
+        </descripcion>
+    </curso>
+    <curso categoria="matematicas">
+        <nombre>Trigonometria</nombre>
+        <duracion>40</duracion>
+        <descripcion>La trigonometria és una branca de les matemàtiques que tracta
+            les relacions internes dels triangles. Té relació directa amb la geometria,
+            sent una de les bases de la geometria analítica. Les magnituds essencials que
+            s'utilitzen són la distància i l'angle.
+            Té moltes aplicacions: la tècnica de la triangulació s'usa en
+            astronomia per a mesurar la distància a estels propers, en topografia per a
+            fer mapes i en sistemes de navegació per satèl·lit.
+        </descripcion>
+    </curso>
+    <curso categoria="psicologia">
+        <nombre>Gestalt</nombre>
+        <duracion>120</duracion>
+        <descripcion>La psicología de la Gestalt (también psicología de la forma o psicología de la configuración) 
+            es una corriente de la psicología moderna, surgida en Alemania a principios del siglo XX, cuyos exponentes más 
+            reconocidos fueron los teóricos Max Wertheimer, Wolfgang Köhler, Kurt Koffka y Kurt Lewin.
+            El término Gestalt proviene del alemán, fue introducido por primera vez por Christian von Ehrenfels y
+            puede traducirse, aquí, como "forma", "figura", "configuración", "estructura" o "creación".
+        </descripcion>
+    </curso>
+    <curso categoria="ingenieria">
+        <nombre>Ingenieria Mecanica</nombre>
+        <duracion>400</duracion>
+        <descripcion>La ingeniería mecánica es una rama de la ingeniería que aplica, específicamente, los principios de la termodinámica, mecánica, mecánica clásica, mecánica cuántica, mecánica de fluidos, análisis estructural, estática, dinámica, ecuación diferencial, trigonometría, ciencia de materiales para el diseño y análisis de diversos elementos usados en la actualidad, tales como maquinaria con diversos fines (térmicos, hidráulicos, transporte, manufactura), así como también de sistemas de ventilación, refrigeración, vehículos motorizados terrestres, aéreos y marítimos, entre otras aplicaciones.
+
+            Los principales ámbitos generales desarrollados por ingenieros mecánicos incluyen el desarrollo de proyectos en los campos de la ingeniería que tengan por objeto la construcción, reforma, reparación, conservación, demolición, fabricación, instalación, montaje o explotación de: estructuras, equipos mecánicos, instalaciones energéticas, instalaciones y plantas industriales.
+        </descripcion>
+    </curso>
+   
+    <curso categoria="ingenieria">
+        <nombre>Ingenieria Electrica</nombre>
+        <duracion>500</duracion>
+        <descripcion>La ingeniería eléctrica es el campo de la ingeniería que se ocupa del estudio y la aplicación de la electricidad, 
+            la electrónica y el electromagnetismo. Aplica conocimientos de ciencias como la física y las matemáticas para diseñar sistemas 
+            y equipos que permiten generar, transportar, distribuir y utilizar la energía eléctrica.
+            Dicha área de la ingeniería es reconocida como carrera profesional en todo el mundo y constituye una de las áreas fundamentales 
+            de la ingeniería desde el siglo XIX con la comercialización del telégrafo eléctrico y la generación industrial de energía eléctrica. Dada 
+            su evolución en el tiempo, este campo ahora abarca una serie de disciplinas que incluyen la electrotecnia, la electrónica, los sistemas 
+            de control, el procesamiento de señales y las telecomunicaciones.
+        </descripcion>
+    </curso>
+</cursos>

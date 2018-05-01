@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso categoria="ciencias_de_la_tierra">
+    <nombre>Geología</nombre>
+    <duracion>350</duracion>
+    <descripcion>La geología es la ciencia que estudia la composición y estructura tanto interna como superficial del planeta Tierra,
+ y los procesos por los cuales ha ido evolucionando a lo largo del tiempo geológico.
+La misma comprende un conjunto de geociencias, así conocidas actualmente desde el punto de vista de su pedagogía, desarrollo 
+y aplicación profesional. Ofrece testimonios esenciales para comprender la tectónica de placas, la historia de la vida a través de la 
+paleontología, y cómo fue la evolución de ésta, además de los climas del pasado.
+ </descripcion>
+</curso>
